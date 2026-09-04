@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ SkyGive
+# SkyGive
 
 ### Bitcoin donation campaigns for Bluesky — beautiful, non-custodial, 0% fee
 
@@ -48,14 +48,14 @@ SkyGive does none of that. Drop your on-chain BTC address, get a beautiful 1200�
 
 | | |
 |---|---|
-| 🎨 **16 curated themes** | WCAG-AA validated palettes — Forest, Indigo, Slate, Ember, etc. |
-| 🔒 **Non-custodial · 0% fee** | Sats go directly to your wallet — every donation, every time |
-| ⚡ **Zero auth** | No signup, no email, no password. Admin URL = your only credential |
-| ✨ **5 visual variants** | Each Bluesky post auto-rotates the badge layout |
-| 🌐 **Fiat-aware goals** | Set goals in USD/EUR/GBP/CAD — auto-converts to sats via CoinGecko/Coinbase |
-| 🤖 **AI palette extraction** | Workers AI (Llama 3.2 Vision) pulls accent colors from your avatar |
-| 📊 **View analytics** | Per-campaign view counts, no donor tracking |
-| 🌍 **Edge-native** | 100% Cloudflare — Workers + D1 + R2 + KV + Workers AI + Browser Rendering |
+| **16 curated themes** | WCAG-AA validated palettes — Forest, Indigo, Slate, Ember, etc. |
+| **Non-custodial · 0% fee** | Sats go directly to your wallet — every donation, every time |
+| **Zero auth** | No signup, no email, no password. Admin URL = your only credential |
+| **5 visual variants** | Each Bluesky post auto-rotates the badge layout |
+| **Fiat-aware goals** | Set goals in USD/EUR/GBP/CAD — auto-converts to sats via CoinGecko/Coinbase |
+| **AI palette extraction** | Workers AI (Llama 3.2 Vision) pulls accent colors from your avatar |
+| **View analytics** | Per-campaign view counts, no donor tracking |
+| **Edge-native** | 100% Cloudflare — Workers + D1 + R2 + KV + Workers AI + Browser Rendering |
 
 ---
 
@@ -162,6 +162,6 @@ Other projects:
 
 <div align="center">
 
-**Built with ☕ on Cloudflare's edge · ⚡ skygive.app · 0% fee, forever**
+**Built with  on Cloudflare's edge ·  skygive.app · 0% fee, forever**
 
 </div>
