@@ -153,7 +153,6 @@ SkyGive is part of a family of open-source tools by [@indicaindependent](https:/
 Other projects:
 - [WarHeatmap](https://github.com/indicaindependent/warheatmap) — live global conflict intelligence
 - **Sentinel** — federal surveillance contract tracker
-- [VibesMom](https://github.com/indicaindependent/vibesmom) — AI mental health support bot for Bluesky
 - **FaceHeatmap** — facial-recognition surveillance heatmap
 - [BizHer](https://github.com/indicaindependent/bizher) — free NY LLC wizard for women entrepreneurs
 
